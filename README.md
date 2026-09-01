@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi, I'm Yalagurappa Kulkarni 👋
 
-I am Yalagurappa Kulakarni
+ReactJS / Frontend Development professional focused on building
+responsive, maintainable and user-friendly web applications.
 
-- 🌱 Associate Software Engineer
-
+## Tech Stack
+React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS |
+React Router | Context API | Vite | Git | GitHub
